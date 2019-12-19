@@ -1,5 +1,7 @@
 # blackpanthercostumecontroller
 
+A simple web app to control my Black Panther costume.
+
 ## Project setup
 ```
 npm install
